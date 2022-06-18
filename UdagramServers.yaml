@@ -60,7 +60,6 @@ Resources:
           cd /var/www/html
           echo "it works! Udagram, Udacity" > index.html
       ImageId: ami-0cfa91bdbc3be780c
-      KeyName: udacityuser
       IamInstanceProfile:
         Fn::ImportValue: !Sub "${EnvironmentName}-IAM-NAME"
       SecurityGroups:
