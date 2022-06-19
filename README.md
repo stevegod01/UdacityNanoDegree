@@ -12,4 +12,4 @@ The below resorces was used-
 - VPC
 - Application Load Balancer
 
-
+Website URL: http://udagr-webap-1rw7csxdjg412-1167155621.us-west-2.elb.amazonaws.com/
